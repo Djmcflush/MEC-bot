@@ -1,0 +1,15 @@
+{
+  "name": "mec",
+  "version": "1.0.0",
+  "description": "A Twitter bot that can Retweet anything involving the Mountain east Athletics teams",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
